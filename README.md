@@ -4,9 +4,11 @@ This device is a dedicated programmer for the ESP32 WROOM-32, designed to make t
 
 
 ![Screenshot 2025-02-12 200917](https://github.com/user-attachments/assets/4fa10c81-8212-41ab-8c30-f1d4928dfec9)
+![Screenshot 2025-02-12 201855](https://github.com/user-attachments/assets/d977f3e4-a514-459b-87b7-d1836153778e)
 
 🔑 Key Features:
-- Custom Socket for ESP32 WROOM-32 → easy plug & play functionality.
+- Custom Socket for ESP32 WROOM-32 → easy plug & play 
+functionality.
 - CH340G IC → ensures stable USB to Serial communication.
 - AMS1117-3.3 Regulator → provides a safe and stable 3.3V supply for the ESP32.
 - EN (Enable) & BOOT Buttons → simplifies reset and flashing mode operations.
