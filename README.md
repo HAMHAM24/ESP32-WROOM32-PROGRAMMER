@@ -20,4 +20,5 @@ This device is a dedicated programmer for the ESP32 WROOM-32, designed to make t
 - Input: 5V via Micro USB
 - Output: 3.3V for ESP32
 - Crystal Oscillator: 12 MHz for clock stability
-- Proudly Designed in Yogyakarta by PCB Makers 2025
+
+Proudly Designed in Yogyakarta by PCB Makers 2025
