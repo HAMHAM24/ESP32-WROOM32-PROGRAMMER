@@ -9,11 +9,13 @@ This device is a dedicated programmer for the ESP32 WROOM-32, designed to make t
 - Micro USB Connector → compatible with standard USB cables.
 - LED Indicators → clear monitoring of power and activity status.
 - Compact Design → space-efficient for any workspace.
+  
 ⚡ Applications:
 - ESP32 Firmware Development → perfect for IoT developers.
 - Prototype Testing → makes debugging and design iteration easier.
 - Industrial Programming → ideal for mass production, allowing the ESP32 WROOM-32 to be pre-programmed before being soldered onto the final PCB for commercial products.
 - Hardware Testing → ensures the module is fully functional before further integration.
+  
 📍 Additional Specifications:
 - Input: 5V via Micro USB
 - Output: 3.3V for ESP32
